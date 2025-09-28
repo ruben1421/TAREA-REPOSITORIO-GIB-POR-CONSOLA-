@@ -8,6 +8,9 @@ public class Github_ejmplo {
 		 System.out.println("¡Adios, Mundo!");
 		 
 		 System.out.println("Como estan");
+		 
+		 System.out.println("Como estamos");
+		 
 	}
 
 }
